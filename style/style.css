@@ -21,10 +21,10 @@ svg {
 @keyframes dvd {
     0% {
         transform: translateX(0px) translateY(0px);
-        fill: red 1s;
+        fill: red;
     }
     25% {
-        transform: translateX(600px) translateY(605px);
+        transform: translateX(600px) translateY(590px);
         fill: green;
     }
     50% {
@@ -32,7 +32,7 @@ svg {
         fill: blue;
     }
     75% {
-        transform: translateX(600px) translateY(605px);
+        transform: translateX(600px) translateY(590px);
         fill: purple;
     }
     100% {
